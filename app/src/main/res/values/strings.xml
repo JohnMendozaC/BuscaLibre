@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">BuscaLibre</string>
+    <string name="offers">Tecnologia</string>
+    <string name="offers_of_products">¡Productos en oferta!</string>
+    <string name="what_you_are_looking_for">Lo que estas buscando</string>
+    <string name="similar_products">Productos similares</string>
+    <string name="no_internet">No tienes internet</string>
+    <string name="no_result">No hay resultados para su busqueda</string>
+    <string name="no_product">No se encontro el producto</string>
+    <string name="searching_in_free_search">Buscar en Busca Libre</string>
+    <string name="unknow">UnKnow</string>
+    <string name="price_cero">$ 0.0</string>
+    <string name="buy_product">Comprar Producto</string>
+    <string name="tag_loading">Loading</string>
 </resources>
